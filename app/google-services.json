@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440541011671",
+    "firebase_url": "https://apnakhaata-5c711-default-rtdb.firebaseio.com",
+    "project_id": "apnakhaata-5c711",
+    "storage_bucket": "apnakhaata-5c711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440541011671:android:490988fcdfafc2c09d9a92",
+        "android_client_info": {
+          "package_name": "com.test.creditinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440541011671-5ercdvtrm6marvha1dkqro9h5ard2dip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.creditinfo",
+            "certificate_hash": "e035e864257fed8b05d14cc0abdd01647caeee89"
+          }
+        },
+        {
+          "client_id": "440541011671-gqqo2c09012flhbuun60l14eh7rnohm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcRSWKhNbvI2C1ly7GgCG4RA9cDZAjNAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440541011671-gqqo2c09012flhbuun60l14eh7rnohm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
